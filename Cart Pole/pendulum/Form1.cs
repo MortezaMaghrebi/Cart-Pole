@@ -38,6 +38,8 @@ namespace pendulum
               isMoving = true;
               double Lastx = x, lastv = v;
               Boolean ismove = false;
+            double WEdje = 0;
+            bool WEdjeOK = false;
               while (isMoving)
               {
                   DateTime t = DateTime.Now;
@@ -99,9 +101,23 @@ namespace pendulum
                       //v = v + a * dt / 1000.0;
                       //V = (50 * a + f * 50 * v) / h;
                       double k = (x + (v * dt / 1000.0));
-                      if (k * 160 < (-pictureBox1.Width / 2) + 110) v = a = 0;
-                      else if (k*160 > pictureBox1.Width / 2 - 110) v = a = 0;
-                      else x = k;
+                    if (k * 160 < (-pictureBox1.Width / 2) + 110)
+                    {
+                        WEdje = -v;
+                        v = a = 0;
+                        WEdjeOK = true;
+                    }
+                    else if (k * 160 > pictureBox1.Width / 2 - 110)
+                    {
+                        WEdje = -v;
+                        v = a = 0;
+                        WEdjeOK = true;
+                    }
+                    else
+                    {
+                        x = k;
+                        WEdjeOK = false;
+                    }
                       Lastx = x;
                       lastv = v;
                       W0 = W;
@@ -111,6 +127,13 @@ namespace pendulum
                   T = (-m * a) * Math.Cos(Teta);
                   Alfa = (T - m * g * l * Math.Sin(Teta)) / (m * l * l);
                   Omega = Omega + Alfa * dt/1000.0;
+                if (WEdjeOK)
+                {
+                    Omega += WEdje;
+                    WEdjeOK = false;
+                    checkBox2.Checked = false;
+                    checkBox1.Checked = true;
+                }
                   Teta = Teta + Omega * dt/1000.0;
                   teta = (Teta - ((int)(Teta / (2 * Math.PI)) * 2 * Math.PI));
                   if (teta > 0)
@@ -126,7 +149,22 @@ namespace pendulum
                   if (teta < -Math.PI) teta = 2 * Math.PI + teta;
                   if (teta > Math.PI) teta = (-2 * Math.PI + teta);
 
-                  if (checkBox1.Checked) GetIt();
+                if (checkBox1.Checked)
+                {
+                    if((Math.Abs(teta)>2 || Math.Abs(teta)<0.6 ) && Math.Abs(Omega)<0.5)
+                    {
+                        if (x * teta * Omega > 0)
+                        {
+
+                            checkBox1.Checked = false;
+                            checkBox2.Checked = true;
+                        }
+                    }
+                    
+                    GetIt();
+                    
+                    
+                }
                   if (checkBox2.Checked) SpeedIt();
 
                   //گاری
@@ -220,11 +258,12 @@ namespace pendulum
             if (buf < -3) a = -3;
             else if (buf > 3) a =3;
             else a =buf;
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label4.Text = "teta     : " + teta + "\n" + "voltage: " + V + "\n" + "a         : " + a.ToString() + "\nx         : " + x.ToString() + "\nw         : " + (v*50).ToString(); ; ;
+            label4.Text = "teta     : " + teta + "\n" + "omega     : " + Omega + "\n"+ "voltage: " + V + "\n" + "a         : " + a.ToString() + "\nx         : " + x.ToString() + "\nw         : " + (v*50).ToString(); ; ;
             if (sampling)
             {
                 tt.Add(teta);

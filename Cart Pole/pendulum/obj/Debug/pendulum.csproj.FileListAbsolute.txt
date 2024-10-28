@@ -62,3 +62,14 @@ D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\Ka
 D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.csproj.CoreCompileInputs.cache
 D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.exe
 D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.pdb
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\bin\Debug\pendulum.exe.config
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\bin\Debug\pendulum.exe
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\bin\Debug\pendulum.pdb
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.csprojAssemblyReference.cache
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.Charts.resources
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.Form1.resources
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.csproj.GenerateResource.cache
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.csproj.CoreCompileInputs.cache
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.exe
+C:\Users\Morteza\Documents\GitClone\Cart-Pole\Cart Pole\pendulum\obj\Debug\pendulum.pdb

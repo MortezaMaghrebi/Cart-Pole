@@ -161,6 +161,8 @@
             // 
             this.checkBox2.AutoSize = true;
             this.checkBox2.BackColor = System.Drawing.Color.Transparent;
+            this.checkBox2.Checked = true;
+            this.checkBox2.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBox2.ForeColor = System.Drawing.Color.Transparent;
             this.checkBox2.Location = new System.Drawing.Point(119, 481);
             this.checkBox2.Name = "checkBox2";
@@ -294,6 +296,7 @@
             this.checkBox3.TabIndex = 19;
             this.checkBox3.Text = "with motor";
             this.checkBox3.UseVisualStyleBackColor = false;
+            this.checkBox3.Visible = false;
             this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
             // 
             // trackBar1
