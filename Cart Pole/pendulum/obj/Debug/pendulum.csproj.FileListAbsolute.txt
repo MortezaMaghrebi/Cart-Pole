@@ -1,0 +1,64 @@
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\bin\Debug\pendulum.exe.config
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\bin\Debug\pendulum.exe
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\bin\Debug\pendulum.pdb
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\obj\Debug\pendulum.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\obj\Debug\pendulum.Form1.resources
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\obj\Debug\pendulum.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\obj\Debug\pendulum.exe
+C:\Users\Daniel\Desktop\Morteza\pendulum\pendulum\pendulum\obj\Debug\pendulum.pdb
+G:\pendulum\pendulum\bin\Debug\pendulum.exe.config
+G:\pendulum\pendulum\obj\Debug\pendulum.exe
+G:\pendulum\pendulum\obj\Debug\pendulum.pdb
+C:\Users\Morteza\Desktop\NEW PROJECTS2\Cart and Pole\Control\project\pendulum\pendulum\bin\Debug\pendulum.exe.config
+C:\Users\Morteza\Desktop\NEW PROJECTS2\Cart and Pole\Control\project\pendulum\pendulum\obj\Debug\pendulum.exe
+C:\Users\Morteza\Desktop\NEW PROJECTS2\Cart and Pole\Control\project\pendulum\pendulum\obj\Debug\pendulum.pdb
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\bin\Debug\pendulum.exe.config
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\obj\Debug\pendulum.exe
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\obj\Debug\pendulum.pdb
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\bin\Debug\pendulum.exe
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\bin\Debug\pendulum.pdb
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\obj\Debug\pendulum.csprojResolveAssemblyReference.cache
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\obj\Debug\pendulum.Form1.resources
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+C:\Users\Morteza\Desktop\C#\pendulum\pendulum\obj\Debug\pendulum.csproj.GenerateResource.Cache
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\bin\Debug\pendulum.exe.config
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.exe
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.pdb
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\bin\Debug\pendulum.exe
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\bin\Debug\pendulum.pdb
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.csprojResolveAssemblyReference.cache
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.Form1.resources
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+C:\Users\Morteza\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.csproj.GenerateResource.Cache
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\bin\Debug\pendulum.exe.config
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.exe
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.pdb
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\bin\Debug\pendulum.exe
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\bin\Debug\pendulum.pdb
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.csprojResolveAssemblyReference.cache
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.Charts.resources
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.Form1.resources
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+C:\Users\JILEK\Desktop\Cpole\pendulum\pendulum\obj\Debug\pendulum.csproj.GenerateResource.Cache
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\bin\Debug\pendulum.exe.config
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\obj\Debug\pendulum.exe
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\obj\Debug\pendulum.pdb
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\obj\Debug\pendulum.csprojResolveAssemblyReference.cache
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\obj\Debug\pendulum.Charts.resources
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\obj\Debug\pendulum.Form1.resources
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\obj\Debug\pendulum.csproj.GenerateResource.Cache
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\bin\Debug\pendulum.exe
+C:\Users\JILEK\Desktop\Cpole\pendulum new\pendulum\bin\Debug\pendulum.pdb
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\bin\Debug\pendulum.exe.config
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\bin\Debug\pendulum.exe
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\bin\Debug\pendulum.pdb
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.csprojAssemblyReference.cache
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.Charts.resources
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.Form1.resources
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.csproj.GenerateResource.cache
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.csproj.CoreCompileInputs.cache
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.exe
+D:\Morteza Maghrebi_backup_ do not write changes\University\Prozhe karshenasi\KartAndPole\Cpole\pendulum new\pendulum\obj\Debug\pendulum.pdb
